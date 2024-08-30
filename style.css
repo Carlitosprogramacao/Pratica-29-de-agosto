@@ -1,0 +1,18 @@
+.cabecalho{
+    background-color: blue;
+    height: 180px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.menu{
+    padding: 70px;
+     color:white;
+     text-decoration: none;
+}
+
+img{
+   height: 40%;
+}
